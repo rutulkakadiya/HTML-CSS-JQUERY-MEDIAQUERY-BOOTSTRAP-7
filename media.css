@@ -1,0 +1,112 @@
+@media (min-width: 993px) and (max-width: 1300px){
+    .box2{
+        display: none;
+    }
+    .nav{
+        display: none;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+        display: none;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 992px){
+    .nav1{
+        display: none;
+    }
+    .nav2{
+        display: none;
+    }
+    .nav3{
+        display: none;
+    }
+    #icon1{
+        display: block;
+    }
+    #span1{
+        display: block;
+    }
+    .logo{
+        width: 95%;
+    }
+    .box2{
+        display: none;
+    }
+    .nav{
+        display: none;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+        display: none;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    .nav1{
+        display: none;
+    }
+    .nav2{
+        display: none;
+    }
+    .nav3{
+        display: none;
+    }
+    #icon1{
+        display: block;
+    }
+    #span1{
+        display: block;
+    }
+    .logo{
+        width: 95%;
+    }
+    .box2{
+        display: none;
+    }
+    .nav{
+        display: none;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+        display: none;
+    }
+    
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+    .nav1{
+        display: none;
+    }
+    .nav2{
+        display: none;
+    }
+    .nav3{
+        display: none;
+    }
+    #icon1{
+        display: block;
+    }
+    #span1{
+        display: block;
+    }
+    .logo{
+        width: 95%;
+    }
+    .nav{
+        display: none;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+        display: none;
+    }
+}
